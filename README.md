@@ -1,2 +1,2 @@
 # Tribute Page
-Simple tribute page done as a freeCodeCamp challenge
+Simple tribute page done for the freeCodeCamp challenge
