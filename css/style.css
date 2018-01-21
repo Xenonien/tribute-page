@@ -1,4 +1,4 @@
-/* TODO: Fix inicials T letter, header title bottom margin and page width issues */
+/* TODO: Fix page width issues */
 /* 
 =======================================================
 Global
@@ -120,7 +120,7 @@ Header
 .inicials-letters {
     display: inline-block;
     padding-top: 10px;
-    margin-left: -5px;
+    margin-left: -4.5px;
     vertical-align: middle;
     letter-spacing: .5rem;
 }
@@ -141,7 +141,7 @@ Header
     .titles {
         -webkit-transform: scale(1.5);
                 transform: scale(1.5);
-        margin: 86px auto 70px auto;
+        margin: 86px auto 100px auto;
     }
 }
 
@@ -149,7 +149,7 @@ Header
     .titles {
         -webkit-transform: scale(2.2);
                 transform: scale(2.2);
-        margin: 155px auto 139px auto;
+        margin: 155px auto 169px auto;
     }
 }
 
