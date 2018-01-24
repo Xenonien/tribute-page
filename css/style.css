@@ -141,7 +141,7 @@ Header
     .titles {
         -webkit-transform: scale(1.5);
                 transform: scale(1.5);
-        margin: 86px auto 100px auto;
+        margin: 56px auto 70px auto;
     }
 }
 
@@ -149,7 +149,7 @@ Header
     .titles {
         -webkit-transform: scale(2.2);
                 transform: scale(2.2);
-        margin: 155px auto 169px auto;
+        margin: 125px auto 139px auto;
     }
 }
 
